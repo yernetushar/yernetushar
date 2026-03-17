@@ -1,4 +1,4 @@
-![banner](https://i.pinimg.com/originals/da/3e/a0/da3ea0f25c636964f1f393ce02e83d59.jpg)
+![banner](https://www.shutterstock.com/shutterstock/videos/1087264694/thumb/5.jpg?ip=x480)
 # 💫 About Me:
 Backend Developer (Java | J2EE | Spring Boot)<br><br>I am currently focused on mastering backend development using Core Java, J2EE, and Spring Boot.<br>Learning how real enterprise applications are built using REST APIs, database integration, multithreading, and clean architecture.
 
