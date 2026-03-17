@@ -1,5 +1,5 @@
 
-  <img src="https://www.shutterstock.com/shutterstock/videos/1087264694/thumb/5.jpg" width="100%" />
+  <img src="https://www.shutterstock.com/shutterstock/videos/1087264694/thumb/5.jpg" width="100%"  height="200"/>
 
 
 # 💫 About Me:
